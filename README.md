@@ -1,2 +1,2 @@
 changeme
-dontreadme
+dontreadme :)
