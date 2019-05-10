@@ -1,4 +1,4 @@
-FROM linuxserver/plex:latest
+FROM hmlio/vaas-cve-2014-0160
 #FROM ubuntu:latest
 #FROM python:3.7-alpine
 #LABEL maintainer="howie_howerton@trendmicro.com"
