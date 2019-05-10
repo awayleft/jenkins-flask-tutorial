@@ -1,7 +1,8 @@
 FROM getcapsule8/shellshock 
 #FROM ubuntu:latest
 #FROM python:3.7-alpine
-LABEL maintainer="howie_howerton@trendmicro.com"
+#LABEL maintainer="howie_howerton@trendmicro.com"
+maintainer="tyler_ferguson@trendmicro.com"
 # Note:  Remove the comments for the RUN instructions below when using 'FROM ubuntu:latest'
 #RUN apt-get update -y
 #RUN apt upgrade -y
