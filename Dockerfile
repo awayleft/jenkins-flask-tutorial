@@ -1,4 +1,4 @@
-FROM openjdk
+FROM linuxserver/plex:latest
 #FROM ubuntu:latest
 #FROM python:3.7-alpine
 #LABEL maintainer="howie_howerton@trendmicro.com"
