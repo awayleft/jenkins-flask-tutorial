@@ -1,6 +1,6 @@
 #FROM hmlio/vaas-cve-2014-0160
-#FROM ubuntu:latest
-FROM imiell/bad-dockerfile
+FROM ubuntu:latest
+#FROM imiell/bad-dockerfile
 #FROM python:3.7-alpine
 LABEL maintainer="TrendTylerAWS@trendmicro.com"
 # Note:  Remove the comments for the RUN instructions below when using 'FROM ubuntu:latest'
