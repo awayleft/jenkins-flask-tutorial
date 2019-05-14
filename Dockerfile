@@ -1,4 +1,5 @@
-FROM hmlio/vaas-cve-2014-0160
+#FROM hmlio/vaas-cve-2014-0160
+FROM amd64/ubuntu
 #FROM ubuntu:latest
 #FROM python:3.7-alpine
 LABEL maintainer="TrendTylerAWS@trendmicro.com"
